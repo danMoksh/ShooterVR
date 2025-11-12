@@ -54,7 +54,10 @@ You can download the latest `ShooterVR.apk` from the **[Releases](https://github
 
 To open this project in the Unity Editor:
 
-1.  Clone this repository: `git clone https://github.com/danMoksh/ShooterVR.git`
+1.  Clone this repository:
+    ```bash
+    git clone https://github.com/danMoksh/ShooterVR.git
+    ```
 2.  Open **Unity Hub** and click "Add project".
 3.  Navigate to and select the cloned `ShooterVR` folder.
 4.  Unity will open the project and automatically build the `Library` folder.

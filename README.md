@@ -1,9 +1,9 @@
-# ShooterVR (7th Semester Project)
+# ShooterVR 
 
 ShooterVR is a simple, gaze-based virtual reality shooter game built in Unity for the Google Cardboard platform. This project was developed as part of a 7th-semester B.Tech college curriculum.
 
 ## Table of Contents
-- [ShooterVR (7th Semester Project)](#shootervr-7th-semester-project)
+- [ShooterVR](#shootervr)
   - [Table of Contents](#table-of-contents)
   - [About The Project](#about-the-project)
   - [Gameplay Features](#gameplay-features)
@@ -62,11 +62,19 @@ To open this project in the Unity Editor:
 
 ## Gameplay Showcase
 
-![GIF of player in the Main Menu](Images/demoShooter.gif)
-*The simple Main Menu, built with Unity's UI system.*
+<div style="display:flex; flex-direction:column; align-items:flex-start; gap:20px;">
 
-![Screenshot of the 'Main Menu' screen](Images/mainMenu.png)
-*The "Main Menu" scene, which loads before the game starts and asks you to continue or exit.*
+  <div>
+    <img src="Images/demoShooter.gif" alt="GIF of player in the Main Menu" width="400">
+    <p><em>The simple Main Menu, built with Unity's UI system.</em></p>
+  </div>
+
+  <div>
+    <img src="Images/mainMenu.png" alt="Screenshot of the 'Main Menu' screen" width="400">
+    <p><em>The "Main Menu" scene, which loads before the game starts and asks you to continue or exit.</em></p>
+  </div>
+
+</div>
 
 ## License
 
